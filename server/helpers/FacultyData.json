@@ -1,0 +1,74 @@
+[
+  {
+    "Name": "Prof. Rajeev Sharma",
+    "Email": "rajeev.sharma@adaniuni.ac.in",
+    "Department": "ICT",
+    "Phone": "8765432109",
+    "Designation": "Associate Professor",
+    "FacultyID": "FAC5678"
+  },
+  {
+    "Name": "Dr. Shraddha Iyer",
+    "Email": "shraddha.iyer@ictmumbai.edu.in",
+    "Department": "ICT",
+    "Phone": "9345678921",
+    "Designation": "Assistant Professor",
+    "FacultyID": "FAC3457"
+  },
+  {
+    "Name": "Prof. Arvinddand_uday  Patel",
+    "Email": "arvind.patel@adaniuni.ac.in",
+    "Department": "ICT",
+    "Phone": "9456789032",
+    "Designation": "Professor",
+    "FacultyID": "FAC3458"
+  },
+  {
+    "Name": "Dr. Aarti Joshi",
+    "Email": "aarti.joshi@nitdelhi.ac.in",
+    "Department": "CSE",
+    "Phone": "9123456789",
+    "Designation": "Associate Professor",
+    "FacultyID": "FAC2345"
+  },
+  {
+    "Name": "Dr. Anjali Mehta",
+    "Email": "udaynandaniya89@gmail.com",
+    "Department": "CSE",
+    "Phone": "9876543210",
+    "Designation": "Professor",
+    "FacultyID": "FAC1234"
+  },
+  {
+    "Name": "Dr. Neha Verma",
+    "Email": "neha.verma@dummyemail.com",
+    "Department": "CSE",
+    "Phone": "9988776655",
+    "Designation": "Assistant Professor",
+    "FacultyID": "FAC9101"
+  },
+  {
+    "Name": "Prof. Vikram_uday  Singh",
+    "Email": "vikram.singh@gmail.com",
+    "Department": "CIE",
+    "Phone": "9876543211",
+    "Designation": "Professor",
+    "FacultyID": "FAC1122"
+  },
+  {
+    "Name": "Dr. Meena Kapoor",
+    "Email": "meena.kapoor@gmail.com",
+    "Department": "ECE",
+    "Phone": "9123456780",
+    "Designation": "Associate Professor",
+    "FacultyID": "FAC1123"
+  },
+  {
+    "Name": "Mr. Arjun Patel",
+    "Email": "arjun.patel@gmail.com",
+    "Department": "CSE",
+    "Phone": "9988776655",
+    "Designation": "Assistant Professor",
+    "FacultyID": "FAC1124"
+  }
+]

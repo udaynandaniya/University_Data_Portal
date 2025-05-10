@@ -1,0 +1,37 @@
+[
+  {
+    "DepartmentId": "34",
+    "Name": "CIE",
+    "Department_head": "shrey",
+    "Email": "CIE@123",
+    "Password": "123"
+  },
+  {
+    "DepartmentId": "56",
+    "Name": "ICT",
+    "Department_head": "parth_nandaniya_ahir",
+    "Email": "ICT@1235",
+    "Password": "123"
+  },
+  {
+    "DepartmentId": "FCUI345",
+    "Name": "EV",
+    "Department_head": "RAJESH_sir",
+    "Email": "EV@123",
+    "Password": "1234"
+  },
+  {
+    "DepartmentId": "FCUI346",
+    "Name": "MECH",
+    "Department_head": "SURESH_sir",
+    "Email": "MECH@123",
+    "Password": "5678"
+  },
+  {
+    "DepartmentId": "FCUI347",
+    "Name": "CIVIL",
+    "Department_head": "RAMESH_sir",
+    "Email": "CIVIL@123",
+    "Password": "91011"
+  }
+]
